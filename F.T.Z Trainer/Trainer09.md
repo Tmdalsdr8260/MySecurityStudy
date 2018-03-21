@@ -30,6 +30,8 @@
 2) gid : Group ID (특별한 일이 없는 한 gid = uid)
 3) groups : 현재 자신이 어떤 그룹에 속해 있는지 알려줌 (기본적으로 자신의 uid와 같은 그룹에 속함)
 
+---
+
 ## <파일의 권한 분석>
 
     Ex) -rwxrwxrwx      1 trainer9 trainer10        5 10dnjf 20 21:35 test1
